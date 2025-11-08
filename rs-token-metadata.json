@@ -1,0 +1,23 @@
+{
+  "name": "RobinSon Coin",
+  "symbol": "RS",
+  "description": "RobinSon Coin (RS) lives on the Solana Testnet and is created to be used to transfer funds in the RobinSon blockchain app and RobinSon wallet.",
+  "image": "https://your-image-host.com/rs-token-logo.png",
+
+  "external_url": "https://0-robinson-1.github.io/blockchain",
+  "attributes": [
+    {
+      "trait_type": "Launch Date",
+      "value": "2025-11-08"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://your-host.com/rs-token-extra-file.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
